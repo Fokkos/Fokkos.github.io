@@ -1,0 +1,18 @@
+[
+    {
+        "id": "Ollie",
+        "manufacturer": "SAMSUNG",
+        "codes":    [
+            "0xE0E040BF",
+            "0xE0E0E01F",
+            "0xE0E0D02F",
+            "0xE0E0F00F",
+            "0xE0E0807F",
+            "0xE0E016E9",
+            "0xE0E006F9",
+            "0xE0E046B9",
+            "0xE0E08679",
+            "0xE0E0A659"
+        ]
+    }
+]
