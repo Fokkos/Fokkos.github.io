@@ -32,8 +32,8 @@
         ]
     },
     {
-        "id": "Harmony",
-        "manufacturer": "HARMONY",
+        "id": "three",
+        "manufacturer": "SONY",
         "codes":    [
             "0x0000",
             "0x0001",
